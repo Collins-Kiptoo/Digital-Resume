@@ -108,10 +108,16 @@ st.write("🚧", "**Data Scoper | [Invisible Technologies, Inc](https://www.invi
 st.write("02/2021 - Present")
 st.write(
     """
+- ► Proven track record of success in data entry and team collaboration roles, consistently achieving and exceeding performance targets.
+- ► Strong ability to work effectively in a team environment, collaborating with other team members to ensure that client needs are met on time and to the highest standard, resulting in successful project completion and client retention.
+- ► Adept at multitasking and prioritizing competing demands, able to meet tight deadlines while maintaining a high level of attention to detail and quality, resulting in a high level of productivity and efficiency.
+- ► Excellent communication and interpersonal skills, able to communicate effectively with clients and internal teams to deliver results, resulting in positive client relationships and feedback.
+- ► Proven ability to take ownership of tasks and drive projects to completion, resulting in successful outcomes and recognition for contributions to the team.
 - ► Proven track record of success in data entry and team collaboration roles.
 - ► Demonstrated ability to accurately and efficiently enter large amounts of data, ensuring that all information is accurate and up-to-date.
 - ► Strong ability to work effectively in a team environment, collaborating with other team members to ensure that client needs are met on time and to the highest standard.
 - ► Adept at multitasking and prioritizing competing demands, able to meet tight deadlines while maintaining a high level of attention to detail.
+- ► Demonstrated ability to accurately and efficiently enter large amounts of data, ensuring that all information is accurate and up-to-date.
 - ► Excellent communication and interpersonal skills, able to communicate effectively with clients and internal teams to deliver results.
 
 """
@@ -123,11 +129,12 @@ st.write("🚧", "**Website Tester | [FitsWarm](https://www.linkedin.com/company
 st.write("08/2020 - 08/2022")
 st.write(
     """
-- ► Collaborated with the product management to design, build and test systems.
-- ► Conducted regression testing, analyze results and submit observations to the development team.
-- ► Effectively interacted with the project manager regarding software defects and functionality issues, working closely to develop innovative solutions.
-- ► Identified and tracked defects with Trello and supported developers in resolving problems by completing additional tests.
-- ► Evaluated function, performance and design compliance of every product against design standards and customer needs.
+- ► Experienced in collaborating with product management to design, build, and test systems, resulting in the successful launch of multiple products.
+- ► Skilled in determining server operating limits through load testing and conducting regression testing, ensuring that systems can handle expected traffic and usage.
+- ► Adept in debugging process results and identifying defects, working closely with development team to resolve issues, resulting in a high level of system stability and performance.
+- ► Familiar with usability testing and design scenarios on Windows, Android, and iOS mobile devices, resulting in user-friendly and accessible products.
+- ► Strong ability to evaluate product performance, function and design compliance against design standards and customer needs, resulting in products that meet or exceed expectations and industry standards..
+
 """)
 
 
